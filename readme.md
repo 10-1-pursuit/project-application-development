@@ -6,12 +6,13 @@ For this project, you will work with one or more other developers to create a un
 
 This project has five different parts on which you will be graded. Each part is weighted differently.
 
-- 50% of the project is scored on **completion**.
-- 20% of the project is scored through the **mastery rubric**.
-- 10% of the project is scored through **stretch goals**.
+- 40% of the project is scored on **completion**.
+- 15% of the project is scored through the **mastery rubric**.
+- 5% of the project is scored through **stretch goals**.
 - 20% of the project is scored through the **teamwork rubric**.
+- 20% of the project is scored through the **presentation rubric**.
 
-In total, you must receive at least 70% to complete this project. For example, you could attain 35% of points through the completion requirements, 15% of points through the mastery rubric, 15% of points through the teamwork rubric, and 5% of points through the stretch goals.
+In total, you must receive at least 70% to complete this project. For example, you could attain 30% of points through the completion requirements, 10% of points through the mastery rubric, 10% of points through the teamwork rubric, 5% of points through the stretch goals, and 15% through the presentation rubric.
 
 > **Note**: Your contributions to this group project must be equitable. Failure to make meaningful individual contributions to this project may lead to a separate assessment of some kind or a failing grade.
 >
@@ -32,7 +33,7 @@ To complete this project, you will need to build a React application that meets 
 
 Outside of coding, you are required to do the following in preparation for this project.
 
-4. Group norms have been established with input from the entire group, which are recorded and accessible to everyone. Your project `readme.md` should include a document or link to these group norms.
+5. Group norms have been established with input from the entire group, which are recorded and accessible to everyone. Your project `readme.md` should include a document or link to these group norms.
 1. You have identified a well-defined problem that your application intends to solve.
 1. You have described what types of users would make up your customer base, identifying key characteristics.
 1. You have developed _and used_ a Trello board, creating cards for each task and assigning those tasks to individual members of the team. Your Trello board should be linked in the `readme.md` file.
@@ -42,7 +43,7 @@ Outside of coding, you are required to do the following in preparation for this 
 
 To complete the front-end application, you will need to build a React application that implements the following features.
 
-9. The application includes at least two separate pages, each of which has its own route.
+10. The application includes at least two separate pages, each of which has its own route.
 1. The application leverages at least one external API, which is integral to the functionality of the application.
 1. The application includes at least one form that can be submitted to change something in the application.
 1. The application allows for sorting or filtering of some data via a user interface.
@@ -71,6 +72,10 @@ Points will be allocated in this section at the discretion of the instructor.
 This section of the project is designed to allow you and your teammate(s) to self-reflect on what it was like working in a group with one another. These skills are critical for succeeding in the course and thriving as a software developer.
 
 To view components of the teamwork rubric, view the appropriate assignments on Canvas.
+
+### Presentation rubric
+
+This section of the project is designed to measure your ability to present your project and your code. These skills are crucial for succeeding in the course and getting your first job as a software developer. To view components of the mastery rubric, view the appropriate assignment on Canvas.
 
 ## Getting started
 
